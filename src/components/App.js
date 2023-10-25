@@ -1,5 +1,5 @@
 // import React from "react";
-import Container from "./Container";
+// import Container from "./Container";
 
 // function App() {
 //   return (
@@ -34,6 +34,8 @@ import Container from "./Container";
 //     </div>
 //   );
 // }
+
+// this is my added data from the example on canva
 
 import React from 'react';
 
